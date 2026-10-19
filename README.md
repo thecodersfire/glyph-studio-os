@@ -25,8 +25,4 @@ The `glyph-studio.svg` wallpaper is original. Glyph Studio OS is an independent 
 See [FEATURES.md](FEATURES.md) for three local tools included for graphic design.
 
 
-The installer also includes three purpose-specific applications: **GIMP, Kdenlive, Blender**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **GIMP, Kdenlive, Blender**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **GIMP, Kdenlive, Blender**. See [FEATURES.md](FEATURES.md).
+The installer includes ten more applications selected for this distro's purpose. See [FEATURES.md](FEATURES.md) for the list.

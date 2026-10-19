@@ -4,7 +4,19 @@ org.kde.krita
 org.mozilla.firefox
 com.opera.opera-gx
 
-# Three additional preinstalled purpose-specific applications
+# Three previously added purpose-specific applications
 org.gimp.GIMP
 org.kde.kdenlive
 org.blender.Blender
+
+# Ten additional preinstalled purpose-specific applications
+com.obsproject.Studio
+org.audacityteam.Audacity
+org.ardour.Ardour
+org.darktable.Darktable
+org.scribus.Scribus
+org.videolan.VLC
+org.mixxx.Mixxx
+org.gnome.Boxes
+org.gnome.TextEditor
+org.gnome.Calculator

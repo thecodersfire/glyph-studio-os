@@ -22,3 +22,20 @@ The installer adds these three Flathub applications for graphic design:
 3. **Blender** — org.blender.Blender
 
 They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
+
+## Ten more purpose-specific preinstalled applications
+
+The setup installs these ten Flathub apps selected for graphic design:
+
+1. **OBS Studio** — record or stream sessions (com.obsproject.Studio)
+2. **Audacity** — edit audio recordings (org.audacityteam.Audacity)
+3. **Ardour** — record and mix multitrack audio (org.ardour.Ardour)
+4. **darktable** — develop RAW photos (org.darktable.Darktable)
+5. **Scribus** — lay out print-ready publications (org.scribus.Scribus)
+6. **VLC** — review media files (org.videolan.VLC)
+7. **Mixxx** — prepare and mix DJ sets (org.mixxx.Mixxx)
+8. **GNOME Boxes** — test workflows in virtual machines (org.gnome.Boxes)
+9. **GNOME Text Editor** — edit plain-text notes and configuration files (org.gnome.TextEditor)
+10. **GNOME Calculator** — perform scientific and financial calculations (org.gnome.Calculator)
+
+Flathub distributes the app packages. Check each publisher license and terms. This repository contains app IDs and documentation, not third-party binaries.
