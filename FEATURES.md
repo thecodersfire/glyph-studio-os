@@ -12,3 +12,13 @@ Install them from this repository:
 
     mkdir -p "$HOME/.local/bin"
     install -m 0755 features/glyph-studio-os-workspace features/glyph-studio-os-plan features/glyph-studio-os-check "$HOME/.local/bin/"
+
+## Preinstalled purpose software
+
+The installer adds these three Flathub applications for graphic design:
+
+1. **GIMP** — org.gimp.GIMP
+2. **Kdenlive** — org.kde.kdenlive
+3. **Blender** — org.blender.Blender
+
+They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
