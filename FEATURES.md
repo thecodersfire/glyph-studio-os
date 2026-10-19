@@ -39,3 +39,25 @@ The setup installs these ten Flathub apps selected for graphic design:
 10. **GNOME Calculator** — perform scientific and financial calculations (org.gnome.Calculator)
 
 Flathub distributes the app packages. Check each publisher license and terms. This repository contains app IDs and documentation, not third-party binaries.
+
+## Fifteen more purpose-specific preinstalled applications
+
+These applications add tools suited to this setup focus. They are installed from Flathub by the setup scripts.
+
+1. **Pixelorama** (com.orama_interactive.Pixelorama) — draw pixel-art sprites and frame-based animations.
+2. **Synfig Studio** (org.synfig.SynfigStudio) — create vector-based 2D animations.
+3. **OpenToonz** (io.github.OpenToonz) — produce hand-drawn and cutout 2D animation.
+4. **RawTherapee** (com.rawtherapee.RawTherapee) — develop RAW photo files with tone and color controls.
+5. **digiKam** (org.kde.digikam) — catalog, tag, and batch-process large photo collections.
+6. **Shotwell** (org.gnome.Shotwell) — import, sort, and make quick edits to photo libraries.
+7. **MuseScore Studio** (org.musescore.MuseScore) — write, play back, and print sheet music.
+8. **LMMS** (io.lmms.LMMS) — compose electronic music and loops.
+9. **Hydrogen** (org.hydrogenmusic.Hydrogen) — program drum patterns and percussion tracks.
+10. **Guitarix** (org.guitarix.Guitarix) — shape guitar tone with amp and effects processing.
+11. **JabRef** (org.jabref.jabref) — organize BibTeX references and research citations.
+12. **Thunderbird** (org.mozilla.Thunderbird) — manage email and communication accounts.
+13. **Disk Usage Analyzer** (org.gnome.baobab) — find large files and manage storage.
+14. **GNOME Logs** (org.gnome.Logs) — inspect logs during troubleshooting.
+15. **Flatseal** (com.github.tchx84.Flatseal) — review Flatpak app permissions.
+
+Emulator frontends do not include game ROMs or copyrighted game files; supply only files you are legally allowed to use.
