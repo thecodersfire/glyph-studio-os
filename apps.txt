@@ -37,3 +37,20 @@ org.mozilla.Thunderbird
 org.gnome.baobab
 org.gnome.Logs
 com.github.tchx84.Flatseal
+
+# Fifteen further preinstalled purpose-specific applications
+org.kde.kolourpaint
+org.kde.gwenview
+org.kde.kamoso
+com.github.flxzt.rnote
+org.kde.okular
+org.kde.dolphin
+org.kde.ark
+org.kde.filelight
+io.github.flattool.Warehouse
+org.kde.kate
+org.gnome.meld
+org.kde.konsole
+org.kde.kcalc
+org.kde.elisa
+org.kde.kwave

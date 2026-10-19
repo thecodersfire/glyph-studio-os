@@ -61,3 +61,25 @@ These applications add tools suited to this setup focus. They are installed from
 15. **Flatseal** (com.github.tchx84.Flatseal) — review Flatpak app permissions.
 
 Emulator frontends do not include game ROMs or copyrighted game files; supply only files you are legally allowed to use.
+
+## Fifteen further purpose-specific preinstalled applications
+
+This second batch adds another set of apps selected for this setup’s purpose. They are installed from Flathub by the setup scripts.
+
+1. **KolourPaint** (org.kde.kolourpaint) — make quick raster sketches, labels, and simple image edits.
+2. **Gwenview** (org.kde.gwenview) — review image sets and make quick crop, resize, and annotation edits.
+3. **Kamoso** (org.kde.kamoso) — capture webcam photos and short video clips.
+4. **Rnote** (com.github.flxzt.rnote) — sketch diagrams, write by hand, and annotate pictures or documents.
+5. **Okular** (org.kde.okular) — read, bookmark, and annotate technical drawings, reading lists, and reference PDFs.
+6. **Dolphin** (org.kde.dolphin) — organize project assets and inspect folders.
+7. **Ark** (org.kde.ark) — open and create common project archive files.
+8. **Filelight** (org.kde.filelight) — find large folders and reclaim disk space.
+9. **Warehouse** (io.github.flattool.Warehouse) — review installed Flatpaks, manage versions, and clean app data.
+10. **Kate** (org.kde.kate) — edit configuration, code, notes, and structured project files.
+11. **Meld** (org.gnome.meld) — compare and merge source files, folders, and Git changes.
+12. **Konsole** (org.kde.konsole) — run shell commands and inspect development or system tasks.
+13. **KCalc** (org.kde.kcalc) — run scientific and unit calculations for coursework or technical work.
+14. **Elisa** (org.kde.elisa) — organize and play local music libraries.
+15. **Kwave** (org.kde.kwave) — record and edit audio waveforms with basic filters and analysis.
+
+Game frontends do not include proprietary game data; add only games or files you are allowed to use.
